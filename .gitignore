@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+.venv/
+.env/
+
+# Archivos de entorno
+.env
+credentials.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Docker
+docker-compose.yml
+.dockerignore
